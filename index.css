@@ -1,0 +1,94 @@
+.intro{
+background-color: #6943FF;
+color: black;
+padding: 10px 20px;
+width:360px;
+line-height: 50px;
+border-radius: 10px;
+display:block ;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.conv{
+    width:400px;
+    background-color: white;
+    color: black;
+    box-sizing: border-box;
+    line-height: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top:20px ;
+    margin-bottom: 20px;    
+    padding: 30px;
+   
+    
+
+}
+body{text-align: center;
+     display: block;
+     justify-content: center;
+     font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Montserrat', sans-serif;}
+
+h2{
+    color: white;
+    padding-top: 1px;
+    text-shadow: 5px 0 5px #D5A2D5;
+    font-size: 25px;
+}
+#input-val{
+    text-align: center;
+    border: 2px solid #DDE2FB ;
+    border-radius: 3px;
+    width:80px;
+    line-height: 50px;
+    background-color: #6943FF;
+    color: #F4F4F4;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.hello{
+    padding: 5px;
+    width:400px;
+    line-height: 300px;
+    margin: 50px;
+    border: 3px solid #DDE2FB;
+    border-radius: 10px;
+    background-color: #F4F4F4;
+    background-size: cover;
+    display: block;
+     justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#btn{
+    display:block ;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    background-color: white;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+#conval{
+    font-size: 15px;
+}
+#conval3{
+    font-size: 15px;
+}
+#conval2{
+    font-size: 15px;
+}
